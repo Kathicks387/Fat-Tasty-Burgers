@@ -1,3 +1,4 @@
+USE nva4b6pnr9g5y7pt
 CREATE TABLE Burgers (
 id INT AUTO_INCREMENT PRIMARY KEY,
 burger_name VARCHAR(40) NOT NULL,
