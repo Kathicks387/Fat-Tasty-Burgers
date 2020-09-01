@@ -1,0 +1,26 @@
+.jumbotron {
+    
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #410ca1;
+    color: #ffffff;
+    margin-top: 3%;
+    background-image: url("../img/Mushroom Burger.jpg");
+    
+  
+  }
+  #newburger {
+    color: #0f0f0d;
+  }
+  #leftside {
+    background-color: hsl(56, 98%, 50%);
+    color: #410ca1;
+    text-align: center;
+    font-size: 1.3em;
+  }
+  #rightside {
+    background-color: #08eb66;
+    color: #410ca1;
+    text-align: center;
+    font-size: 1.3em;
+  }

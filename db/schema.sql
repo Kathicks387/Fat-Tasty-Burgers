@@ -1,0 +1,6 @@
+USE Burgers;
+CREATE TABLE Burgers (
+id INT AUTO_INCREMENT PRIMARY KEY,
+burger_name VARCHAR(40) NOT NULL,
+devoured BOOLEAN DEFAULT false
+);
