@@ -1,7 +1,7 @@
 {
-  "name": "burger2",
+  "name": "fat-tasty-burgers",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Burger App (1)](https://user-images.githubusercontent.com/64905823/91831309-ea6f8e00-ec11-11ea-8908-7cf35328054c.gif)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +14,13 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.1.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kathicks387/Fat-Tasty-Burgers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kathicks387/Fat-Tasty-Burgers/issues"
+  },
+  "homepage": "https://github.com/Kathicks387/Fat-Tasty-Burgers#readme"
 }
